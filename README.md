@@ -9,4 +9,8 @@ The purpose of this module was to extract information about the precipitation an
 
 - When juxtaposing the June and December statistics, we can already see there is more data gathered for June than for December; a difference of 183 datapoints (1700 - 1517). 
 - Since there is more data from June than from December, this affects the statistics given. We can especially see the affect on the average and minimum stats with an average temperature of 74.94 (June) and of 71.04 (Dec) and a minimum of 64 (June) and 56 (Dec). The max temperature was slightly affected with a two degree difference: 85 (June) and 83 (Dec).
-- 
+- If we compare the quartiles between June and December, there is approximately a 3-4 degree difference between them: 25% (73 (June), 69 (December)), 50% (75 (June), 71 (December)), and 75% (77 (June), 74 (December)).
+
+
+## Summary
+
