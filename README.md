@@ -13,4 +13,9 @@ The purpose of this module was to extract information about the precipitation an
 
 
 ## Summary
+If we review the results presented above, we can assume that June seems to be ideal tempearture-wise for business especially with the mean temperature being approximately 75 degrees. One reason for there being more datapoints in June than in December is possibly null values in the December data; may on some days in December, the shop was closed because of it being the slow season for such a shop. This can be backed by the fact the minimum temperature in December hit a low of 56, which for consumers may be too cold to be either surfing or eating ice cream or both. 
+
+Also, if we look at the quartiles for June, specifically the 75% quartile, the majority of temperature datapoints stayed at or below a temperature of 77. According to different websites, it seems the ideal temperature for surfing is in the 70s and it becomes too cold when it reaches between 50-60. If we also look at the precipitation statistics for both months (pictured below), there is approximately a difference of 2 in the maxes (4.43 (June), 6.42 (December)). Although there are fewer datapoints for December, it appears that there was more precipitation in December making it more difficult to keep the shop open. From this data, it does not seem completely ideal for the shop to run year-round.
+
+
 ![June_prcp.png](Images/June_prcp.png) ![Dec_prcp.png](Images/Dec_prcp.png)
