@@ -13,4 +13,4 @@ The purpose of this module was to extract information about the precipitation an
 
 
 ## Summary
-
+![June_prcp.png](Images/June_prcp.png) ![Dec_prcp.png](Images/Dec_prcp.png)
